@@ -1,0 +1,19 @@
+.allodd {
+    background-color: rgb(245, 169, 183);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;     
+}
+
+#unique {
+    color: rgb(1, 60, 255);
+    font-size: 36px;   
+}
+
+.allodd.cooler {
+    font-size: 24px; 
+}
+
+#another {
+    background-color: rgb(136, 241, 184);
+    font-size: 24px;
+    font-weight: bold;         
+}
